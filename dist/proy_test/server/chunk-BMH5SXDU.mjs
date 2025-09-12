@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+var t={production:!0,urlDominioApi:"https://api-tarjeta-holografico.smartdigitaltec.com",urlRaiz:"https://api-tarjeta-holografico.smartdigitaltec.com/api",apiUrl:"https://api-tarjeta-holografico.smartdigitaltec.com/api",siteUrl:"https://tarjeta-holografico.smartdigitaltec.com",siteName:"Tarjeta Digital",defaultImage:"/assets/images/default-og-image.svg"};export{t as a};
