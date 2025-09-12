@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{X as o,Za as n,_a as a,db as i,hb as s}from"./chunk-D7ZWPOEP.mjs";import"./chunk-5XUXGTUW.mjs";var m=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["app-about"]],standalone:!0,features:[s],decls:3,vars:0,consts:[[1,"bg-white","rounded-lg","shadow-md","p-6","mb-6"],[1,"text-2xl","font-bold","text-gray-800","mb-4"]],template:function(t,r){t&1&&(n(0,"div",0)(1,"h2",1),i(2,"Pagina de about"),a()())}})};export{m as AboutComponent};
