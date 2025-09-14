@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{H as m}from"./chunk-7IPQHCPP.mjs";import{$a as i,X as n,Za as o,_a as a,hb as s}from"./chunk-NT3FEOQE.mjs";import"./chunk-5XUXGTUW.mjs";var r=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-vista"]],standalone:!0,features:[s],decls:2,vars:0,consts:[[1,"min-h-screen"]],template:function(e,c){e&1&&(o(0,"main",0),i(1,"router-outlet"),a())},dependencies:[m]})};export{r as VistaComponent};
